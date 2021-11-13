@@ -1,4 +1,4 @@
-Hello I am CryptoMaster and this is my page! I dont really develop too much mostly fork other people's gits and play with code. 
+Hello I am CryptoMasterDegen and this is my page! I dont really develop too much mostly fork other people's gits and play with code. 
 
 
 
