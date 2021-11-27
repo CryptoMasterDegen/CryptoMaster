@@ -2,5 +2,5 @@ Hello I am CryptoMasterDegen and this is my page! I dont really develop too much
 
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=linuzo)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=CryptoMasterDegen)](https://github.com/anuraghazra/github-readme-stats)
 
